@@ -1,0 +1,40 @@
+# Xcode
+#
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata
+
+# Build artifacts
+#
+build/
+DerivedData/
+
+# Swift Package Manager
+#
+.build/
+
+# CocoaPods
+#
+Pods/
+
+# Carthage
+#
+Carthage/Build/
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Other
+#
+*.DS_Store
+*.swp
+*.swo
+*.log
+*.xcodeproj
+*.xcworkspace
